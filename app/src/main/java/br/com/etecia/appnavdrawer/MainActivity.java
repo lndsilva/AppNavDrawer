@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         drawerLayout.addDrawerListener(toggle);
 
         toggle.syncState();
-        
+
 
         navigationView = findViewById(R.id.navView);
         navigationView.setNavigationItemSelectedListener(this);
