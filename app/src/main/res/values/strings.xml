@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppNavDrawer</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
 </resources>

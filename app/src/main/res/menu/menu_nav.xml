@@ -11,7 +11,7 @@
             android:title="Favoritos" />
         <item
             android:id="@+id/mEmailEnviados"
-            android:icon="@drawable/ic_send"
+            android:icon="@drawable/ic_email"
             android:title="Emails Enviados" />
     </group>
     <item
@@ -28,6 +28,4 @@
                 android:title="Spam" />
         </menu>
     </item>
-
-
 </menu>
